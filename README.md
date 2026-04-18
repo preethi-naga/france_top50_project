@@ -63,10 +63,6 @@ france_top50_project/
 - Plotly
 - Streamlit
 
-  ## Research Paper
-
-[View Research Paper]
-
 
 ## Live Demo
 
